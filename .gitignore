@@ -5,7 +5,7 @@
 *.log
 
 # Ignore IDE-specific files
-/.idea/d
+/.idea/
 /*.iml
 
 # Ignore OS-specific files
